@@ -1,0 +1,23 @@
+{
+  "name": "abelfubu-dark",
+  "displayName": "abelFubu-Dark+",
+  "description": "A super dark theme!",
+  "version": "0.0.1",
+  "icon": "images/Favicon.png",
+  "publisher": "abelfubu",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "abelFubu Dark+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abelFubu Dark+-color-theme.json"
+      }
+    ]
+  }
+}
