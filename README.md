@@ -1,10 +1,10 @@
-# ViajesPlus
+# abelFubu - Dark+
 
-Disfruta de este tema super oscuro que no hará que tus ojos parezcan los de un vampiro después de trabajar incontables hora delante del ordenador!
+Disfruta de este tema super oscuro que no hará que tus ojos parezcan los de un vampiro después de trabajar incontables horas delante del ordenador!
 
 ### Vista previa del tema
 
-![Vista Previa](https://raw.githubusercontent.com/abelfubu/admin-travel-agency/master/src/assets/images/abelfubu-dark%2B.png)
+![Vista Previa](https://raw.githubusercontent.com/abelfubu/admin-travel-agency/master/src/assets/images/dark%2B.png)
 
 ### Objetivos
 
