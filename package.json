@@ -2,9 +2,20 @@
   "name": "abelfubu-dark",
   "displayName": "abelFubu-Dark+",
   "description": "A super dark theme!",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "icon": "images/Favicon.png",
   "publisher": "abelfubu",
+  "keywords": [
+    "dark",
+    "orange",
+    "simple",
+    "theme",
+    "black",
+    "elegant",
+    "dark+",
+    "abelfubu"
+  ],
+  "license": "ISC",
   "repository": {
     "url": "https://github.com/abelfubu/abelfubu-dark-vscode-theme"
   },
