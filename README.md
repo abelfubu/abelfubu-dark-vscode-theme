@@ -7,9 +7,13 @@
 
 Disfruta de este tema super oscuro que no hará que tus ojos parezcan los de un vampiro después de trabajar incontables horas delante del ordenador!
 
+### Theme Font
+
+[Recomended Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FantasqueSansMono.zip)
+
 ### Vista previa del tema
 
-![Vista Previa](https://raw.githubusercontent.com/abelfubu/admin-travel-agency/master/src/assets/images/dark%2B.png)
+![Vista Previa](https://raw.githubusercontent.com/abelfubu/abelfubu-dark-vscode-theme/master/images/theme.gif)
 
 ### Objetivos
 
