@@ -12,7 +12,7 @@
     "editor.foreground": "#d4d4d4",
     "editor.inactiveSelectionBackground": "#3a3d41",
     "editor.selectionHighlightBackground": "#75beff80",
-    "editorCursor.foreground": "#ffe400",
+    "editorCursor.foreground": "#f0a606",
     "editorGroupHeader.tabsBackground": "#282C34",
     "editorIndentGuide.activeBackground": "#272b33",
     "editorIndentGuide.background": "#404040",
@@ -164,7 +164,7 @@
     //"editorMarkerNavigationInfo.background": "#75beff",
     //"editorMarkerNavigationWarning.background": "#cca700",
     //"editorOverviewRuler.addedForeground": "#587c0c99",
-    "editorOverviewRuler.border": "#ff0000",
+    "editorOverviewRuler.border": "#ff000000",
     //"editorOverviewRuler.bracketMatchForeground": "#a0a0a0",
     //"editorOverviewRuler.commonContentForeground": "#60606066",
     //"editorOverviewRuler.currentContentForeground": "#40c8ae80",
@@ -503,14 +503,7 @@
       }
     },
     {
-      "scope": "markup.bold",
-      "settings": {
-        "foreground": "#569CD6",
-        "fontStyle": "bold"
-      }
-    },
-    {
-      "scope": "markup.heading",
+      "scope": ["markup.bold",  "markup.heading"],
       "settings": {
         "foreground": "#569CD6",
         "fontStyle": "bold"
@@ -820,6 +813,7 @@
     {
       "scope": [
         "variable",
+        "source.python",
         "meta.definition.variable.name",
         "entity.name.variable",
         "support.variable"
@@ -922,7 +916,7 @@
       }
     },
     {
-      "scope": ["meta.jsx.children.js", "meta.jsx.children.tsx"],
+      "scope": ["meta.jsx.children.js", "meta.jsx.children.tsx", "meta.function-call.python"],
       "settings": {
         "foreground": "#D4D4D4"
       }
