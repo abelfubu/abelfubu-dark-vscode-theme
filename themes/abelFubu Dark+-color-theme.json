@@ -139,7 +139,7 @@
     //"editorBracketMatch.background": "#0064001a",
     // "editorBracketMatch.border": "#888888",
     //"editorCodeLens.foreground": "#999999",
-    //"editorError.foreground": "#f48771",
+    "editorError.foreground": "#f48771",
     // "editorGroup.border": "#ff0000",
     //"editorGroup.dropBackground": "#53595d80",
     //"editorGroupHeader.noTabsBackground": "#282C34",
@@ -773,8 +773,7 @@
         "storage.type.generic.groovy",
         "storage.type.object.array.groovy",
         "storage.type.primitive.array.groovy",
-        "storage.type.primitive.groovy",
-        "variable.other.readwrite.ts"
+        "storage.type.primitive.groovy"
       ],
       "settings": {
         "foreground": "#89d185d5"
