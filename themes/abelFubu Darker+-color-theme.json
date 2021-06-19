@@ -586,7 +586,8 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#80808080"
+        "foreground": "#808080b0",
+        "fontStyle": "italic"
       }
     },
     {
@@ -777,7 +778,8 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#dfbc84d3"
+        "foreground": "#c3b679dc",
+        "fontStyle": ""
       }
     },
     {
@@ -1099,6 +1101,12 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#B267E6"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name.html",
+      "settings": {
+        "fontStyle": "italic"
       }
     }
   ]
