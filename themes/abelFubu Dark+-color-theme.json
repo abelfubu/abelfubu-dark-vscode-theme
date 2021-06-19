@@ -619,7 +619,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"foreground": "#569CD6"
-			}
+      }
 		},
 		{
 			"scope": "entity.name.tag.css",
@@ -728,7 +728,7 @@
 				"entity.name.function.preprocessor"
 			],
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569CD6",
 			}
 		},
 		{
@@ -764,7 +764,8 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569CD6",
+        "fontStyle": "italic"
 			}
 		},
 		{
@@ -909,7 +910,8 @@
 		{
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569CD6",
+        "fontStyle": "italic"
 			}
 		},
 		{

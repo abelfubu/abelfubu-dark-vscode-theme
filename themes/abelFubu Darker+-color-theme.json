@@ -764,7 +764,8 @@
 		{
 			"scope": "storage.type",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569CD6",
+        "fontStyle": "italic"
 			}
 		},
 		{
@@ -909,7 +910,8 @@
 		{
 			"scope": "variable.language",
 			"settings": {
-				"foreground": "#569CD6"
+				"foreground": "#569CD6",
+        "fontStyle": "italic"
 			}
 		},
 		{
@@ -987,7 +989,8 @@
 				"entity.name.operator"
 			],
 			"settings": {
-				"foreground": "#52B69A"
+				"foreground": "#52B69A",
+        "fontStyle": "italic bold"
 			}
 		},
 		{
