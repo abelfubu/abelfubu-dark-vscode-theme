@@ -34,6 +34,11 @@
         "label": "abelFubu Dark+",
         "uiTheme": "vs-dark",
         "path": "./themes/abelFubu Dark+-color-theme.json"
+      },
+      {
+        "label": "abelFubu Darker+",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abelFubu Darker+-color-theme.json"
       }
     ]
   }
