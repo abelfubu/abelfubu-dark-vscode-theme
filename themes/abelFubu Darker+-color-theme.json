@@ -756,14 +756,13 @@
       }
     },
     {
-      "scope": "storage.type.function.arrow",
+      "scope": ["storage.type.function.arrow", "meta.objectliteral"],
       "settings": {
-        "foreground": "#569CD6",
-        "fontStyle": "bold"
+        "fontStyle": ""
       }
     },
     {
-      "scope": ["storage.type", "meta.decorator.ts"],
+      "scope": ["storage.type", "storage.modifier", "meta.decorator.ts"],
       "settings": {
         "foreground": "#569CD6",
         "fontStyle": "italic"
@@ -778,7 +777,7 @@
     {
       "scope": ["string", "meta.embedded.assembly"],
       "settings": {
-        "foreground": "#dfd18490"
+        "foreground": "#dfbc84d3"
       }
     },
     {
