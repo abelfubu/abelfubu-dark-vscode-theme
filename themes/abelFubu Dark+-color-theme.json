@@ -763,7 +763,7 @@
       }
     },
     {
-      "scope": ["storage.type", "storage.modifier", "meta.decorator.ts"],
+      "scope": ["storage.type", "storage.modifier"],
       "settings": {
         "foreground": "#569CD6",
         "fontStyle": "italic"
@@ -982,7 +982,8 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#C586C0"
+        "foreground": "#C586C0",
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -1102,7 +1103,11 @@
       }
     },
     {
-      "scope": "entity.other.attribute-name.html",
+      "scope": [
+        "entity.other.attribute-name.html",
+        "keyword.operator.new",
+        "meta.decorator.ts"
+      ],
       "settings": {
         "fontStyle": "italic"
       }
