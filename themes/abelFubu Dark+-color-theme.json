@@ -983,7 +983,7 @@
       ],
       "settings": {
         "foreground": "#C586C0",
-        "fontStyle": "italic bold"
+        "fontStyle": "italic"
       }
     },
     {
@@ -1103,11 +1103,7 @@
       }
     },
     {
-      "scope": [
-        "entity.other.attribute-name.html",
-        "keyword.operator.new",
-        "meta.decorator.ts"
-      ],
+      "scope": ["entity.other.attribute-name.html", "meta.decorator.ts"],
       "settings": {
         "fontStyle": "italic"
       }
