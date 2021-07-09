@@ -105,7 +105,7 @@
     "sideBarTitle.foreground": "#ffffff2f",
     "statusBar.background": "#1a1f24",
     "statusBar.foreground": "#ffffff8f",
-    "statusBarItem.hoverBackground": "#232831",
+    "statusBarItem.hoverBackground": "#23283120",
     "statusBarItem.prominentBackground": "#75beff25",
     "statusBarItem.remoteBackground": "#75beff",
     "tab.activeBackground": "#75beff25",
@@ -361,9 +361,9 @@
     //"settings.numberInputForeground": "#cccccc",
     //"settings.textInputForeground": "#cccccc",
     "statusBar.debuggingBackground": "#98C379",
-    //"statusBar.debuggingForeground": "#ffffff8f",
+    "statusBar.debuggingForeground": "#1a1f24",
     "statusBar.noFolderBackground": "#75beff",
-    //"statusBar.noFolderForeground": "#ffffff8f",
+    "statusBar.noFolderForeground": "#1a1f24",
     //"statusBarItem.activeBackground": "#ffffff2e",
     //"statusBarItem.errorBackground": "#c72e0f",
     //"statusBarItem.errorForeground": "#ffffff",
@@ -679,7 +679,7 @@
       }
     },
     {
-      "scope": "markup.inserted",
+      "scope": ["markup.inserted"],
       "settings": {
         "foreground": "#B5CEA8"
       }
