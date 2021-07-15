@@ -350,7 +350,7 @@
     "scrollbarSlider.background": "#75beff20",
     "scrollbarSlider.hoverBackground": "#75beff30",
     //"settings.checkboxBackground": "#1a1f24",
-    //"settings.checkboxBorder": "#1a1f24",
+    "settings.checkboxBorder": "#75beff50",
     //"settings.checkboxForeground": "#f0f0f0",
     //"settings.dropdownBackground": "#1a1f24",
     //"settings.dropdownBorder": "#1a1f24",
@@ -957,7 +957,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#89d185"
+        "foreground": "#98C379"
       }
     },
     {
@@ -970,7 +970,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#89d185"
+        "foreground": "#98C379"
       }
     },
     {

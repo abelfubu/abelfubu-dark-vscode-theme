@@ -139,7 +139,7 @@
     //"charts.red": "#e06c75",
     //"charts.yellow": "#cca700",
     //"checkbox.background": "#232830",
-    //"checkbox.border": "#232830",
+    //"checkbox.border": "#75beff30",
     //"checkbox.foreground": "#f0f0f0",
     //"debugConsole.errorForeground": "#f48771",
     //"debugConsole.infoForeground": "#75beff",
