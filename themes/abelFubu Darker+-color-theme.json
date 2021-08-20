@@ -757,9 +757,19 @@
       }
     },
     {
-      "scope": ["storage.type.function.arrow", "meta.objectliteral"],
+      "scope": [
+        "storage.type.function.arrow",
+        "meta.objectliteral",
+        "meta.brace.round"
+      ],
       "settings": {
         "fontStyle": ""
+      }
+    },
+    {
+      "scope": ["storage.type.function.arrow", "variable.language.super"],
+      "settings": {
+        "foreground": "#E5C07B"
       }
     },
     {
@@ -957,7 +967,7 @@
         "storage.type.primitive.groovy"
       ],
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#b7df9b"
       }
     },
     {
@@ -970,7 +980,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#98C379"
+        "foreground": "#b7df9b"
       }
     },
     {
