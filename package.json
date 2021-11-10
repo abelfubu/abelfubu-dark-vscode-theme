@@ -2,7 +2,7 @@
   "name": "abelfubu-dark",
   "displayName": "abelFubu-Dark+",
   "description": "A super dark theme!",
-  "version": "1.2.2",
+  "version": "1.3.0",
   "icon": "images/Favicon.png",
   "publisher": "abelfubu",
   "scripts": {
@@ -39,6 +39,11 @@
         "label": "abelFubu Darker+",
         "uiTheme": "vs-dark",
         "path": "./themes/abelFubu Darker+-color-theme.json"
+      },
+      {
+        "label": "abelFubu Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abelFubuContrast-color-theme.json"
       }
     ]
   }
