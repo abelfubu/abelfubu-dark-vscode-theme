@@ -8,3 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Fixed color for remote repositories extension
 - Added new Darker theme to be set in the command palette
+
+## 1.3.1
+
+New contrast theme with a dark background but brighter syntax colors

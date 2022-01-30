@@ -572,6 +572,12 @@
       }
     },
     {
+      "scope": "emphasis",
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
       "scope": "strong",
       "settings": {
         "fontStyle": "bold"
@@ -586,7 +592,8 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#808080b0"
+        "foreground": "#808080b0",
+        "fontStyle": "italic"
       }
     },
     {
@@ -774,7 +781,8 @@
     {
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#569CD6",
+        "fontStyle": "italic"
       }
     },
     {
@@ -912,7 +920,8 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#569CD6"
+        "foreground": "#569CD6",
+        "fontStyle": "italic"
       }
     },
     {
@@ -990,7 +999,8 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#62E2C6"
+        "foreground": "#62E2C6",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1111,6 +1121,12 @@
       "scope": "token.debug-token",
       "settings": {
         "foreground": "#62E2C6"
+      }
+    },
+    {
+      "scope": ["entity.other.attribute-name.html", "meta.decorator.ts"],
+      "settings": {
+        "fontStyle": "italic"
       }
     }
   ]
