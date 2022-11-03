@@ -361,7 +361,7 @@
 		//"settings.headerForeground": "#e7e7e7",
 		//"settings.numberInputForeground": "#cccccc",
 		//"settings.textInputForeground": "#cccccc",
-		"statusBar.debuggingBackground": "#98C379",
+		"statusBar.debuggingBackground": "#E06C75",
 		"statusBar.debuggingForeground": "#1a1f24",
 		"statusBar.noFolderBackground": "#62E2C6",
 		"statusBar.noFolderForeground": "#1a1f24",
@@ -798,7 +798,7 @@
 				"keyword.operator.noexcept"
 			],
 			"settings": {
-				"foreground": "#839eca"
+				"foreground": "#62AFE3"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#97cec2"
+				"foreground": "#56B6C2"
 			}
 		},
 		{
