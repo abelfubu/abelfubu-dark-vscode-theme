@@ -31,7 +31,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "abelFubu Greenish",
+        "label": "Abelfubu Greenish",
         "uiTheme": "vs-dark",
         "path": "./themes/abelfubu-greenish.json"
       },
