@@ -2,7 +2,11 @@
   "name": "abelfubu-dark",
   "displayName": "abelFubu-Dark+",
   "description": "A super dark theme!",
+<<<<<<< Updated upstream
   "version": "1.3.7",
+=======
+  "version": "1.3.10",
+>>>>>>> Stashed changes
   "icon": "images/Favicon.png",
   "publisher": "abelfubu",
   "scripts": {
@@ -31,7 +35,16 @@
   "contributes": {
     "themes": [
       {
+<<<<<<< Updated upstream
         "label": "abelFubu Dark+",
+=======
+        "label": "Abelfubu Everforest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/abelfubu-everforest.json"
+      },
+      {
+        "label": "Abelfubu Greenish",
+>>>>>>> Stashed changes
         "uiTheme": "vs-dark",
         "path": "./themes/abelFubu Dark+-color-theme.json"
       },
