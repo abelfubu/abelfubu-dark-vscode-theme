@@ -5,7 +5,7 @@
   "primaryHover": "#a1f19b",
   "background": "#16101e",
   "backgroundHover": "#272c37",
-  "lightForeground": "#76707e",
+  "lightForeground": "#d1d1d1",
   "lightForegroundHover": "#ffffff",
   "border": "#171F21",
   "error": "#f38ba8",
@@ -16,18 +16,18 @@
   "colors": {
     "activityBar.activeBorder": "#abe9b3",
     "activityBar.background": "#16101e",
-    "activityBar.foreground": "#76707e",
+    "activityBar.foreground": "#d1d1d1",
     "activityBarBadge.background": "#abe9b3",
     "activityBarBadge.foreground": "#16101e",
     "breadcrumb.activeSelectionForeground": "#abe9b3",
     "breadcrumb.focusForeground": "#ffffff",
-    "breadcrumb.foreground": "#76707e",
+    "breadcrumb.foreground": "#d1d1d1",
     "button.background": "#abe9b3",
     "button.foreground": "#16101e",
     "button.hoverBackground": "#a1f19b",
     "button.secondaryHoverBackground": "#272c37",
     "button.secondaryBackground": "#16101e",
-    "button.secondaryForeground": "#76707e",
+    "button.secondaryForeground": "#d1d1d1",
     "debugToolBar.background": "#16101e",
     "diffEditor.diagonalFill": "#cccccc33",
     "diffEditor.insertedTextBackground": "#abe9b333",
@@ -36,7 +36,7 @@
     "editor.background": "#16101e",
     "editor.findMatchBackground": "#171F21",
     "editor.findMatchHighlightBackground": "#171F2177",
-    "editor.foreground": "#76707e",
+    "editor.foreground": "#d1d1d1",
     "editor.hoverHighlightBackground": "#abe9b333",
     "editor.inactiveSelectionBackground": "#abe9b333",
     "editor.lineHighlightBorder": "#16101e",
@@ -54,7 +54,7 @@
     "editorHoverWidget.statusBarBackground": "#16101e",
     "editorIndentGuide.activeBackground1": "#16101e",
     "editorIndentGuide.background1": "#404040",
-    "editorLineNumber.foreground": "#76707e77",
+    "editorLineNumber.foreground": "#d1d1d177",
     "editorLink.activeForeground": "#abe9b3",
     "editorOverviewRuler.addedForeground": "#abe9b399",
     "editorOverviewRuler.border": "#ff000000",
@@ -123,7 +123,7 @@
     "statusBarItem.hoverBackground": "#23283120",
     "statusBarItem.prominentBackground": "#d3c6aa25",
     "statusBarItem.remoteBackground": "#abe9b3",
-    "tab.activeBackground": "#abe9b333",
+    "tab.activeBackground": "#16101e",
     "tab.inactiveBackground": "#16101e",
     "terminal.border": "#373241",
     "textBlockQuote.border": "#d3c6aa50",
@@ -228,7 +228,7 @@
     //"editorInlayHint.foreground": "#16101e",
     //"editorLightBulb.foreground": "#ffcc00",
     //"editorLightBulbAutoFix.foreground": "#d3c6aa",
-    //"editorLineNumber.activeForeground": "#c6c6c6",
+    "editorLineNumber.activeForeground": "#abe9b3",
     //"editorMarkerNavigation.background": "#2d2d30",
     //"editorMarkerNavigationError.background": "#f38ba8",
     //"editorMarkerNavigationInfo.background": "#d3c6aa",
@@ -474,7 +474,7 @@
     //"textPreformat.foreground": "#d7ba7d",
     //"textSeparator.foreground": "#ffffff2e",
     //"toolbar.activeBackground": "#63666750",
-    "toolbar.hoverBackground": "#abe9b333"
+    "toolbar.hoverBackground": "#abe9b333",
     //"tree.indentGuidesStroke": "#585858",
     //"tree.tableColumnsBorder": "#cccccc20",
     //"welcomePage.progress.background": "#16101e",
@@ -555,7 +555,7 @@
     //"statusBar.border": null,
     //"statusBar.debuggingBorder": null,
     //"statusBar.noFolderBorder": null,
-    //"tab.activeBorder": null,
+    "tab.activeBorder": "#abe9b3"
     //"tab.activeBorderTop": null,
     //"tab.hoverBackground": null,
     //"tab.hoverBorder": null,
@@ -586,12 +586,6 @@
       }
     },
     {
-      "scope": "emphasis",
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
       "scope": "strong",
       "settings": {
         "fontStyle": "bold"
@@ -606,8 +600,7 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#cccccc77",
-        "fontStyle": "italic"
+        "foreground": "#cccccc77"
       }
     },
     {
@@ -798,8 +791,7 @@
     {
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#89b4fa",
-        "fontStyle": "italic"
+        "foreground": "#89b4fa"
       }
     },
     {
@@ -937,8 +929,7 @@
     {
       "scope": "variable.language",
       "settings": {
-        "foreground": "#89b4fa",
-        "fontStyle": "italic"
+        "foreground": "#89b4fa"
       }
     },
     {
@@ -1016,8 +1007,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#abe9b3",
-        "fontStyle": "italic"
+        "foreground": "#abe9b3"
       }
     },
     {
@@ -1138,9 +1128,7 @@
     },
     {
       "scope": ["entity.other.attribute-name.html", "meta.decorator"],
-      "settings": {
-        "fontStyle": "italic"
-      }
+      "settings": {}
     }
   ]
 }
