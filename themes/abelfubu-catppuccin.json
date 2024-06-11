@@ -474,7 +474,7 @@
     //"textPreformat.foreground": "#d7ba7d",
     //"textSeparator.foreground": "#ffffff2e",
     //"toolbar.activeBackground": "#63666750",
-    "toolbar.hoverBackground": "#abe9b333"
+    "toolbar.hoverBackground": "#26202E"
     //"tree.indentGuidesStroke": "#585858",
     //"tree.tableColumnsBorder": "#cccccc20",
     //"welcomePage.progress.background": "#191C23",
@@ -1016,8 +1016,7 @@
         "entity.name.operator"
       ],
       "settings": {
-        "foreground": "#abe9b3",
-        "fontStyle": "italic"
+        "foreground": "#abe9b3"
       }
     },
     {
@@ -1025,20 +1024,11 @@
         "variable",
         "meta.definition.variable.name",
         "support.variable",
-        "entity.name.variable"
+        "entity.name.variable",
+        "variable.other.constant",
+        "variable.other.enummember",
+        "meta.object-literal.key"
       ],
-      "settings": {
-        "foreground": "#C4DFFF"
-      }
-    },
-    {
-      "scope": ["variable.other.constant", "variable.other.enummember"],
-      "settings": {
-        "foreground": "#C4DFFF"
-      }
-    },
-    {
-      "scope": ["meta.object-literal.key"],
       "settings": {
         "foreground": "#C4DFFF"
       }
